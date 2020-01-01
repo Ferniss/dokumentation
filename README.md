@@ -6,7 +6,7 @@ There are many ways for documenting a piece of code. In this case we will be wor
 
 ## Keep your documentation updated.
 Every change in code must be followed by a relevant change in documentation. Otherwise documentation soon becomes outdated, which is equal to the absence of documentation. A README on the Git repo hopefully is more in sync with the project because when you make changes to the code you're "forced" to update the README too (otherwise users will complain).
-A README is a crucial but basic way of documenting your project. Every project should at least have a README!
+A README is a crucial but basic way of documenting your project. Every project should at least have a README, so let's make one!
 
 ## Suggestions for a good README
 There are many formats that you might choose for your README. The best approach is to have a **general, informative format.** That way people can easily understand what your project is about and start working on it.

@@ -5,7 +5,8 @@ But don't forget to update it from time to time so it stays relevant and useful.
 There are many ways for documenting a piece of code. In this case we will be working on both soft and technical docunentation for your newly created fetch-wrapper npm module.
 
 ## Keep your documentation updated.
-Every change in code must be followed by a relevant change in documentation. Otherwise documentation soon becomes outdated, which is equal to the absence of documentation. A README on the Git repo hopefully is more in sync with the project because when you make changes to the code you're "forced" to update the README too (otherwise users will complain).
+Every change in code must be followed by a relevant change in documentation. Otherwise documentation soon becomes outdated, which is equal to the absence of documentation. A README on the Git repository is in sync with the project because, when you make changes to the code you're "forced" to update the README too (otherwise users will complain).
+
 A README is a crucial but basic way of documenting your project. Every project should at least have a README, so let's make one!
 
 ## Suggestions for a good README

@@ -22,7 +22,7 @@ There are many formats that you might choose for your README. The best approach 
     > People will simply copy and paste your code. Keep this in mind and make sure to double check this yourself by executing it. Avoid placing some invisible characters to code examples. It is even better to use code and blockquote tags to embed code blocks.
     
     
-    Example of embed code:
+    Example:
     ```
     npm install foobar
     ```
@@ -31,6 +31,7 @@ There are many formats that you might choose for your README. The best approach 
 
     After you've told users how to install your project locally, you can include brief instructions on how to use it. Use examples, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples.
     
+    Example:
     ```
     import foobar
 
